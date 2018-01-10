@@ -10,6 +10,7 @@
 #ifndef STACKWOEXCEPT_H
 #define STACKWOEXCEPT_H
 
+#include <cstdint>
 #include <cstdlib>
 
 // Type of Stack element
